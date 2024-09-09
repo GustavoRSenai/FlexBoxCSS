@@ -1,0 +1,47 @@
+.container{
+    background-color: blue;
+    height: 500px;
+    /* define a disposição do conteiner */
+    display: flex;
+    /* define a direção dos itens */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    margin: 10px;
+    color: wheat;
+    font-size: 30px;
+    /* alinhando os numeros */
+    /* alinha na coluna */
+    justify-content: center;
+    /* permite os alinhametos */
+    display: flex;
+    /* alinha por linhas */
+    align-items: center;
+}
+.item:nth-child(2){
+    flex-shrink: 3;
+    order: 4;
+
+}
+.item:nth-child(5){
+    flex-grow: 1;
+    order: 1;
+}
+.item:nth-child(3){
+    order: 2;
+    align-self: flex-end;
+}
+.item:nth-child(1){
+    order: 3;
+}
+.item:nth-child(4){
+    order: 6;
+}
+.item:nth-child(6){
+    order: 5;
+}
