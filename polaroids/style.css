@@ -21,8 +21,8 @@ header{
     background-color: rgb(225, 225, 225);
     width: auto;
     height: 100px;
-    font-size: 20px;
-    padding: 20px;
+    font-size: 15px;
+    padding: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 5px gray;
     border-style: ridge;
@@ -52,12 +52,15 @@ footer{
     height: auto;
     padding-bottom: 10px;
 }
-main#album{
+main#Album{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
 }
-section.coluna{
+section.colunas{
     flex: 1 1 100%;
     padding: 0px 5px;
+}
+footer p{
+    background-color: black;
 }
