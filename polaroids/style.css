@@ -57,7 +57,7 @@ main#album{
     flex-flow: row wrap;
     justify-content: space-around;
 }
-section .coluna{
+section.coluna{
     flex: 1 1 100%;
     padding: 0px 5px;
 }
