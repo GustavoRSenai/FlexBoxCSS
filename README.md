@@ -12,6 +12,6 @@ Repositório para treino do flexbox CSS
 
 1. Teste FlexBox: Aprendendo a usar FlexBox;
 2. Polaroids: Treinando FlexBox com uma página de polaroid;
-3. FlexGames: Treinando Flexbox com o [FlexBox Froggy](https://flexboxfroggy.com) e [CSS Dinner](https://flukeout.github.io/#)
+3. FlexGames: Treinando Flexbox com o [FlexBox Froggy](https://flexboxfroggy.com), [CSS Dinner](https://flukeout.github.io/#) e [FlexBox Defense](http://www.flexboxdefense.com).
 
    
