@@ -1,4 +1,4 @@
-## 📦Projetos HTML📦
+## 📦Projetos FlexBox📦
 
 Repositório para treino do flexbox CSS
 
